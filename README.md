@@ -31,7 +31,6 @@
 <p align="center"> 
   &emsp; 
     <img alt="C" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"  alt="adam pithewan" height="50" width="60" >
-
   &emsp;
     <img alt="C++" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png "  alt="adam pithewan" height="50" width="60" >
   &emsp;
