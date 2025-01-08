@@ -5,7 +5,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
--  I am a `Student` at [Faculty of Computers & Informatics](https://csifac.mans.edu.eg/) at [Mansoura University](https://www.mans.edu.eg/en/).
+-  I am a `Student` at [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/) at [Mansoura University](https://www.mans.edu.eg/en/).
 -  `ECPC` Finalist 2024.
 -  I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 -  I’m currently learning `Computer Science` and `Software Engineering`.
