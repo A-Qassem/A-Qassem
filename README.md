@@ -3,11 +3,8 @@
 <br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
+<br>
 -  I am a `Student` at [Faculty of Computers & Informatics](https://csifac.mans.edu.eg/) at [Mansoura University](https://www.mans.edu.eg/en/).
 -  `ECPC` Finalist 2024.
 -  I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
@@ -19,6 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aqassem2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqassem2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aqassem2004?theme=dark&font=source_code_pro)
 </div>
 ###
 
