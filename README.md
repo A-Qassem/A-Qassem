@@ -10,21 +10,6 @@
 -  I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 -  I’m currently learning `Computer Science` and `Software Engineering`.
 <!-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().-->
-<br>
-
-## My state
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aqassem2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqassem2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph" align="right" />
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
